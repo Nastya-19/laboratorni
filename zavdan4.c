@@ -7,10 +7,10 @@ int main(int argc, char *argv[]) {
 	int t;
 	printf("Kotra goduna?:");
 	scanf("%d", &t);
-	if ((t >= 6) && (t <= 12)){
+	if ((t >= 6) && (t <= 11)){
 		printf("Dobrogo ranky\n");
 	} else {
-		if ((t >= 12) && (t <= 18)) {
+		if ((t >= 12) && (t <= 17)) {
 			printf("Dobrogo dnya\n");
 		} else {
 			if ((t >= 18) && (t <= 24)){
