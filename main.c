@@ -14,5 +14,6 @@ int main(int argc, char *argv[]) {
 		scanf("%d", &mas [i]);
 		i++;
 	}
+	system("pause");
 	return 0;
 }
