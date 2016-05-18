@@ -4,9 +4,9 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	
 	double x, y ;
 	int n ;
+	
 	printf("y = x^2 + 3n\n");
 	printf("Vvedite x:");
 	scanf("%lf", &x);
